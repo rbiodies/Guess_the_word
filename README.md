@@ -9,8 +9,6 @@ absent
 present
 absent
 correct
-
-Process finished with exit code 0
 ```
 ```
 ABBA
@@ -19,8 +17,6 @@ correct
 absent
 absent
 correct
-
-Process finished with exit code 0
 ```
 ```
 ABCBC
@@ -30,6 +26,4 @@ correct
 present
 present
 absent
-
-Process finished with exit code 0
 ```
