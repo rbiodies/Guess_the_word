@@ -1,6 +1,6 @@
 # Guess_the_word
 Task of School of Backend Development 2022 (summer) by Yandex
-### Examples:
+### Examples
 ```
 COVER
 CLEAR
